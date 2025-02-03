@@ -1,0 +1,4 @@
+Ad, Soyad, Telefon başlıklarının olduğu bir tabloda kullanıcıdan veri girişi alınsın;
+1) Sutün başlıkları yazı rengi vb biçimler verilsin, hücrelere kenarlık eklensin
+2) Her veri alt satırı eklendiğinde kenarlıkda eklensin
+3) Hücreler verilere otomatik sığdırılsın
