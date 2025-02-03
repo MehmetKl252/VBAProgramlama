@@ -1,0 +1,9 @@
+Sub bicim()
+Cells(1, 1) = "Tarih"
+Cells(3, 1) = "Model Tipi"
+Cells(5, 1) = "Şasi Numarası"
+Range("a1,a3,a5").Interior.Color = vbBlue
+Range("a1,a3,a5").Font.Color = vbWhite
+Range("a1,a3,a5").Font.Bold = True
+Range("b1,b3,b5").Borders.LineStyle = xlContinuous
+End Sub
